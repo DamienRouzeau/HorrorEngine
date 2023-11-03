@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34003.232
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HorrorEngine", "HorrorEngine\HorrorEngine.vcxproj", "{57117224-621F-4066-85EE-644FD08A3A0F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VeryVeryScaryGame", "VeryVeryScaryGame\VeryVeryScaryGame.vcxproj", "{E6040249-94E2-4966-98A3-9CB144EAB175}"
+	ProjectSection(ProjectDependencies) = postProject
+		{57117224-621F-4066-85EE-644FD08A3A0F} = {57117224-621F-4066-85EE-644FD08A3A0F}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57117224-621F-4066-85EE-644FD08A3A0F}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{57117224-621F-4066-85EE-644FD08A3A0F}.Debug|Any CPU.Build.0 = Debug|x64
+		{57117224-621F-4066-85EE-644FD08A3A0F}.Debug|x64.ActiveCfg = Debug|x64
+		{57117224-621F-4066-85EE-644FD08A3A0F}.Debug|x64.Build.0 = Debug|x64
+		{57117224-621F-4066-85EE-644FD08A3A0F}.Debug|x86.ActiveCfg = Debug|Win32
+		{57117224-621F-4066-85EE-644FD08A3A0F}.Debug|x86.Build.0 = Debug|Win32
+		{57117224-621F-4066-85EE-644FD08A3A0F}.Release|Any CPU.ActiveCfg = Release|x64
+		{57117224-621F-4066-85EE-644FD08A3A0F}.Release|Any CPU.Build.0 = Release|x64
+		{57117224-621F-4066-85EE-644FD08A3A0F}.Release|x64.ActiveCfg = Release|x64
+		{57117224-621F-4066-85EE-644FD08A3A0F}.Release|x64.Build.0 = Release|x64
+		{57117224-621F-4066-85EE-644FD08A3A0F}.Release|x86.ActiveCfg = Release|Win32
+		{57117224-621F-4066-85EE-644FD08A3A0F}.Release|x86.Build.0 = Release|Win32
+		{E6040249-94E2-4966-98A3-9CB144EAB175}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{E6040249-94E2-4966-98A3-9CB144EAB175}.Debug|Any CPU.Build.0 = Debug|x64
+		{E6040249-94E2-4966-98A3-9CB144EAB175}.Debug|x64.ActiveCfg = Debug|x64
+		{E6040249-94E2-4966-98A3-9CB144EAB175}.Debug|x64.Build.0 = Debug|x64
+		{E6040249-94E2-4966-98A3-9CB144EAB175}.Debug|x86.ActiveCfg = Debug|Win32
+		{E6040249-94E2-4966-98A3-9CB144EAB175}.Debug|x86.Build.0 = Debug|Win32
+		{E6040249-94E2-4966-98A3-9CB144EAB175}.Release|Any CPU.ActiveCfg = Release|x64
+		{E6040249-94E2-4966-98A3-9CB144EAB175}.Release|Any CPU.Build.0 = Release|x64
+		{E6040249-94E2-4966-98A3-9CB144EAB175}.Release|x64.ActiveCfg = Release|x64
+		{E6040249-94E2-4966-98A3-9CB144EAB175}.Release|x64.Build.0 = Release|x64
+		{E6040249-94E2-4966-98A3-9CB144EAB175}.Release|x86.ActiveCfg = Release|Win32
+		{E6040249-94E2-4966-98A3-9CB144EAB175}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7D46DCE-2BD7-4FB3-AEA2-92B35BE96A9F}
+	EndGlobalSection
+EndGlobal

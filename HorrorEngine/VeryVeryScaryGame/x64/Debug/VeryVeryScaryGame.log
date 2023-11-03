@@ -1,0 +1,5 @@
+﻿  VeryVeryScaryGame.cpp
+C:\Users\damie\source\repos\HorrorEngineGit\HorrorEngine\HorrorEngine\SpriteRenderer.h(6,32): warning C4584: 'HorrorEngine::SpriteRenderer' : la classe de base 'sf::Drawable' est déjà une classe de base de 'HorrorEngine::AComponent'
+C:\Users\damie\vcpkg\installed\x64-windows\include\SFML\Graphics\RenderTarget.hpp(45,7): message : voir la déclaration de 'sf::Drawable'
+C:\Users\damie\source\repos\HorrorEngineGit\HorrorEngine\HorrorEngine\AComponent.h(8,8): message : voir la déclaration de 'HorrorEngine::AComponent'
+  VeryVeryScaryGame.vcxproj -> C:\Users\damie\source\repos\HorrorEngineGit\HorrorEngine\x64\Debug\VeryVeryScaryGame.exe
