@@ -1,0 +1,2 @@
+C:\Users\damie\source\repos\HorrorEngine\VeryVeryScaryGame\x64\Debug\VeryVeryScaryGame.vcxproj.CopyComplete
+C:\Users\damie\source\repos\HorrorEngineGit\HorrorEngine\VeryVeryScaryGame\x64\Debug\VeryVeryScaryGame.vcxproj.CopyComplete
